@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gage-rogers/static/css/main.a621c624.css",
+    "main.css": "/gage-rogers/static/css/main.d2201467.css",
     "main.js": "/gage-rogers/static/js/main.df47bcb1.js",
     "static/media/Poppins-Regular.svg": "/gage-rogers/static/media/Poppins-Regular.9e86548e701c86ed542a.svg",
     "static/media/Poppins-Medium.svg": "/gage-rogers/static/media/Poppins-Medium.79234f0d6859e131ef5b.svg",
@@ -23,11 +23,11 @@
     "static/media/MonumentExtended-Regular.woff": "/gage-rogers/static/media/MonumentExtended-Regular.f4c49887c7cb72aecc7a.woff",
     "static/media/MonumentExtended-Ultrabold.woff": "/gage-rogers/static/media/MonumentExtended-Ultrabold.fb55525da5e1b3ee23a1.woff",
     "index.html": "/gage-rogers/index.html",
-    "main.a621c624.css.map": "/gage-rogers/static/css/main.a621c624.css.map",
+    "main.d2201467.css.map": "/gage-rogers/static/css/main.d2201467.css.map",
     "main.df47bcb1.js.map": "/gage-rogers/static/js/main.df47bcb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a621c624.css",
+    "static/css/main.d2201467.css",
     "static/js/main.df47bcb1.js"
   ]
 }
