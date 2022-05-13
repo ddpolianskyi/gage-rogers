@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gage-rogers/static/css/main.a621c624.css",
+    "main.js": "/gage-rogers/static/js/main.df47bcb1.js",
+    "static/media/Poppins-Regular.svg": "/gage-rogers/static/media/Poppins-Regular.9e86548e701c86ed542a.svg",
+    "static/media/Poppins-Medium.svg": "/gage-rogers/static/media/Poppins-Medium.79234f0d6859e131ef5b.svg",
+    "static/media/TheExcited.svg": "/gage-rogers/static/media/TheExcited.80961211747ab5983b8f.svg",
+    "static/media/MonumentExtended-Regular.svg": "/gage-rogers/static/media/MonumentExtended-Regular.df7d77cd4daf3a8f5163.svg",
+    "static/media/Poppins-Regular.ttf": "/gage-rogers/static/media/Poppins-Regular.46e0551589cf5e553b96.ttf",
+    "static/media/Poppins-Medium.ttf": "/gage-rogers/static/media/Poppins-Medium.9aa9e015247cdf3c6e24.ttf",
+    "static/media/Poppins-Regular.eot": "/gage-rogers/static/media/Poppins-Regular.ad52dfe4bce08485e7f3.eot",
+    "static/media/Poppins-Medium.eot": "/gage-rogers/static/media/Poppins-Medium.72262c5bdefdd5894fa0.eot",
+    "static/media/MonumentExtended-Ultrabold.svg": "/gage-rogers/static/media/MonumentExtended-Ultrabold.328b7a12d5f4b1177a8b.svg",
+    "static/media/TheExcited.eot": "/gage-rogers/static/media/TheExcited.b4a0dd3ef4e2124fbaa8.eot",
+    "static/media/TheExcited.ttf": "/gage-rogers/static/media/TheExcited.b1fc57f01f98cf8a493e.ttf",
+    "static/media/Poppins-Regular.woff": "/gage-rogers/static/media/Poppins-Regular.a762ae3179f95dd3a268.woff",
+    "static/media/Poppins-Medium.woff": "/gage-rogers/static/media/Poppins-Medium.e443b3a83b7fed92008c.woff",
+    "static/media/TheExcited.woff": "/gage-rogers/static/media/TheExcited.381f35cf64b5759c4030.woff",
+    "static/media/MonumentExtended-Regular.eot": "/gage-rogers/static/media/MonumentExtended-Regular.f9066281d5fed6191970.eot",
+    "static/media/MonumentExtended-Regular.ttf": "/gage-rogers/static/media/MonumentExtended-Regular.8b32da174020bea5396e.ttf",
+    "static/media/MonumentExtended-Ultrabold.eot": "/gage-rogers/static/media/MonumentExtended-Ultrabold.1485330076b162618ca9.eot",
+    "static/media/MonumentExtended-Ultrabold.ttf": "/gage-rogers/static/media/MonumentExtended-Ultrabold.799aa2e3f2848c54919f.ttf",
+    "static/media/MonumentExtended-Regular.woff": "/gage-rogers/static/media/MonumentExtended-Regular.f4c49887c7cb72aecc7a.woff",
+    "static/media/MonumentExtended-Ultrabold.woff": "/gage-rogers/static/media/MonumentExtended-Ultrabold.fb55525da5e1b3ee23a1.woff",
+    "index.html": "/gage-rogers/index.html",
+    "main.a621c624.css.map": "/gage-rogers/static/css/main.a621c624.css.map",
+    "main.df47bcb1.js.map": "/gage-rogers/static/js/main.df47bcb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a621c624.css",
+    "static/js/main.df47bcb1.js"
+  ]
+}
