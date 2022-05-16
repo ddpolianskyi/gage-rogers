@@ -1,10 +1,19 @@
 {
   "files": {
-    "main.css": "/gage-rogers/static/css/main.d2201467.css",
-    "main.js": "/gage-rogers/static/js/main.df47bcb1.js",
+    "main.css": "/gage-rogers/static/css/main.78da2d46.css",
+    "main.js": "/gage-rogers/static/js/main.6eb8ac5b.js",
+    "static/media/songs-bg.jpg": "/gage-rogers/static/media/songs-bg.1cda7d019a21f86cae06.jpg",
+    "static/media/about-img.jpg": "/gage-rogers/static/media/about-img.92f9b12567e66cc6e165.jpg",
     "static/media/Poppins-Regular.svg": "/gage-rogers/static/media/Poppins-Regular.9e86548e701c86ed542a.svg",
     "static/media/Poppins-Medium.svg": "/gage-rogers/static/media/Poppins-Medium.79234f0d6859e131ef5b.svg",
+    "static/media/cover-5.jpg": "/gage-rogers/static/media/cover-5.da02248c4c8b7a006571.jpg",
+    "static/media/contact-bg.jpg": "/gage-rogers/static/media/contact-bg.f213be6ee414dbff31f4.jpg",
     "static/media/TheExcited.svg": "/gage-rogers/static/media/TheExcited.80961211747ab5983b8f.svg",
+    "static/media/main-bg.jpg": "/gage-rogers/static/media/main-bg.ae9f73057b5c075ceb2b.jpg",
+    "static/media/cover-1.jpg": "/gage-rogers/static/media/cover-1.691ac7e5aa1bf60a5b67.jpg",
+    "static/media/cover-6.jpg": "/gage-rogers/static/media/cover-6.691ac7e5aa1bf60a5b67.jpg",
+    "static/media/cover-2.jpg": "/gage-rogers/static/media/cover-2.4f5e00d72e9a8ef1b79c.jpg",
+    "static/media/cover-7.jpg": "/gage-rogers/static/media/cover-7.4f5e00d72e9a8ef1b79c.jpg",
     "static/media/MonumentExtended-Regular.svg": "/gage-rogers/static/media/MonumentExtended-Regular.df7d77cd4daf3a8f5163.svg",
     "static/media/Poppins-Regular.ttf": "/gage-rogers/static/media/Poppins-Regular.46e0551589cf5e553b96.ttf",
     "static/media/Poppins-Medium.ttf": "/gage-rogers/static/media/Poppins-Medium.9aa9e015247cdf3c6e24.ttf",
@@ -13,6 +22,10 @@
     "static/media/MonumentExtended-Ultrabold.svg": "/gage-rogers/static/media/MonumentExtended-Ultrabold.328b7a12d5f4b1177a8b.svg",
     "static/media/TheExcited.eot": "/gage-rogers/static/media/TheExcited.b4a0dd3ef4e2124fbaa8.eot",
     "static/media/TheExcited.ttf": "/gage-rogers/static/media/TheExcited.b1fc57f01f98cf8a493e.ttf",
+    "static/media/cover-4.jpg": "/gage-rogers/static/media/cover-4.3d0ecd402ec3d772351a.jpg",
+    "static/media/cover-9.jpg": "/gage-rogers/static/media/cover-9.3d0ecd402ec3d772351a.jpg",
+    "static/media/cover-3.jpg": "/gage-rogers/static/media/cover-3.c50f157cf8471859af2d.jpg",
+    "static/media/cover-8.jpg": "/gage-rogers/static/media/cover-8.c50f157cf8471859af2d.jpg",
     "static/media/Poppins-Regular.woff": "/gage-rogers/static/media/Poppins-Regular.a762ae3179f95dd3a268.woff",
     "static/media/Poppins-Medium.woff": "/gage-rogers/static/media/Poppins-Medium.e443b3a83b7fed92008c.woff",
     "static/media/TheExcited.woff": "/gage-rogers/static/media/TheExcited.381f35cf64b5759c4030.woff",
@@ -23,11 +36,13 @@
     "static/media/MonumentExtended-Regular.woff": "/gage-rogers/static/media/MonumentExtended-Regular.f4c49887c7cb72aecc7a.woff",
     "static/media/MonumentExtended-Ultrabold.woff": "/gage-rogers/static/media/MonumentExtended-Ultrabold.fb55525da5e1b3ee23a1.woff",
     "index.html": "/gage-rogers/index.html",
-    "main.d2201467.css.map": "/gage-rogers/static/css/main.d2201467.css.map",
-    "main.df47bcb1.js.map": "/gage-rogers/static/js/main.df47bcb1.js.map"
+    "static/media/download-btn.svg": "/gage-rogers/static/media/download-btn.35dcd2e92ab7366aa733a041f2adbbd8.svg",
+    "static/media/play.svg": "/gage-rogers/static/media/play.3ad1a8ae2f696b78fe600ad88f78ccc0.svg",
+    "main.78da2d46.css.map": "/gage-rogers/static/css/main.78da2d46.css.map",
+    "main.6eb8ac5b.js.map": "/gage-rogers/static/js/main.6eb8ac5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2201467.css",
-    "static/js/main.df47bcb1.js"
+    "static/css/main.78da2d46.css",
+    "static/js/main.6eb8ac5b.js"
   ]
 }
