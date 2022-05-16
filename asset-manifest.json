@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gage-rogers/static/css/main.78da2d46.css",
+    "main.css": "/gage-rogers/static/css/main.fd6be17f.css",
     "main.js": "/gage-rogers/static/js/main.6eb8ac5b.js",
     "static/media/songs-bg.jpg": "/gage-rogers/static/media/songs-bg.1cda7d019a21f86cae06.jpg",
     "static/media/about-img.jpg": "/gage-rogers/static/media/about-img.92f9b12567e66cc6e165.jpg",
@@ -38,11 +38,11 @@
     "index.html": "/gage-rogers/index.html",
     "static/media/download-btn.svg": "/gage-rogers/static/media/download-btn.35dcd2e92ab7366aa733a041f2adbbd8.svg",
     "static/media/play.svg": "/gage-rogers/static/media/play.3ad1a8ae2f696b78fe600ad88f78ccc0.svg",
-    "main.78da2d46.css.map": "/gage-rogers/static/css/main.78da2d46.css.map",
+    "main.fd6be17f.css.map": "/gage-rogers/static/css/main.fd6be17f.css.map",
     "main.6eb8ac5b.js.map": "/gage-rogers/static/js/main.6eb8ac5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.78da2d46.css",
+    "static/css/main.fd6be17f.css",
     "static/js/main.6eb8ac5b.js"
   ]
 }
